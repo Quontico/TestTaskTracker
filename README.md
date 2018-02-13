@@ -3,6 +3,8 @@ Spring Boot + React.js frontend
 
 How to Launch: 
 
+0.Create database with a script (src\main\resources\db\tasktrackermysqldb.sql)
+
 1.Install npm packages
 
     npm install
